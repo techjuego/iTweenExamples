@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{829C3F7E-8D9F-D5C6-55D8-DDDB3B26C3EA}</ProjectGuid>
+    <ProjectGuid>{892D60F2-D992-3FE0-636B-490F8497E9D6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,7 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Examples\Draw Path &amp; Put OnPath\Path Example1\PathExample.cs" />
     <Compile Include="Assets\Examples\Ignoretimescale\PauseMenu.cs" />
+    <Compile Include="Assets\Examples\MoveTo\Example1\MoveToExample1.cs" />
     <Compile Include="Assets\Examples\Pasue Resume\PauseAndResumeExample.cs" />
     <None Include="Assets\Examples.txt" />
     <Reference Include="UnityEngine">
@@ -595,36 +597,36 @@
       <HintPath>C:/Program Files/2019.4.4f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Youtube/Unity Tutorials/BasicScripts/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Youtube/iTweenExamples/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{F292B50E-3A15-810B-3630-11D731D6794C}</Project>
+      <Project>{EB339C6D-8F01-4DC0-559B-3666C1405280}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
