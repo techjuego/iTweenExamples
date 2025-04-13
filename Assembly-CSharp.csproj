@@ -59,11 +59,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Examples\MoveAdd\Script\MoveAddExample.cs" />
+    <Compile Include="Assets\Examples\DrawLineGizmos\Example1\Script\DrawLineGizmozExample1.cs" />
     <Compile Include="Assets\Examples\Draw Path &amp; Put OnPath\Path Example1\PathExample.cs" />
     <Compile Include="Assets\Examples\ValueTo\Example1\Script\ValueToExample1.cs" />
+    <Compile Include="Assets\Examples\DrawPath\Example2\Script\DrawPathExample1.cs" />
     <Compile Include="Assets\Examples\Ignoretimescale\PauseMenu.cs" />
     <Compile Include="Assets\Examples\Pasue Resume\PauseAndResumeExample.cs" />
+    <Compile Include="Assets\Examples\Vector3Update\Example1\Script\Vector3Update.cs" />
     <Compile Include="Assets\Examples\MoveTo\Example1\MoveToExample1.cs" />
+    <Compile Include="Assets\Examples\DrawPath\Example1\Script\DrawPath.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
